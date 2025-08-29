@@ -54,7 +54,7 @@ Designed as a low-cost solution for smart agriculture and urban gardening, it re
 
 ## Project Prototype Image 
 
-![Project Prototype Image]((https://github.com/manisha-1112/IoT-Enabled-Irrigation-System/blob/main/prototype.png))
+![Project Prototype Image](https://github.com/manisha-1112/IoT-Enabled-Irrigation-System/raw/main/prototype.png)
 
 ## Future Enhancements
 
