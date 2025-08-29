@@ -24,7 +24,7 @@ Designed as a low-cost solution for smart agriculture and urban gardening, it re
 
 ## Circuit Diagram
 
-![Alt text](images/myimage.png)
+![Alt text]([myimage.png](https://github.com/manisha-1112/IoT-Enabled-Irrigation-System/blob/main/circuit.png))
 
 
 ## Tech Stack
