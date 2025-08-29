@@ -24,6 +24,9 @@ Designed as a low-cost solution for smart agriculture and urban gardening, it re
 
 ## Circuit Diagram
 
+![Alt text](images/myimage.png)
+
+
 ## Tech Stack
 
 * Hardware: Arduino Nano, NodeMCU ESP8266, Soil Moisture Sensor, DHT11, Relay Module, 16x2 LCD
@@ -49,6 +52,8 @@ Designed as a low-cost solution for smart agriculture and urban gardening, it re
 * Notifications alert the user when pump state changes.
 
 ## Project Prototype Image 
+
+![Alt text](images/myimage.png)
 
 ## Future Enhancements
 
